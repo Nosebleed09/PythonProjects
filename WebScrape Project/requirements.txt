@@ -1,0 +1,3 @@
+requests: Sends HTTP requests.
+beautifulsoup4: Pulls data out of HTML and XML files.
+lxml: Provides powerful API for parsing HTML and XML.
