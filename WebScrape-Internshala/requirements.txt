@@ -1,0 +1,5 @@
+Ensure the following libraries are installed:
+>BeautifulSoup
+>requests 
+>Tag
+Ensure a "posts" folder exists in the same directory
